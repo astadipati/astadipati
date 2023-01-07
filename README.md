@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+This is my current activity as BackEnd Dev:
 
 - 🔭 I’m currently working on PT Pasific Satelite Nusantara as a Backend NMS DevOps
 - 🌱 I’m currently learning NodeJS-Mongo, Python FastApi, Golang
